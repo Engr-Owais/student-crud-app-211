@@ -45,7 +45,6 @@ body {
 
 [data-position="students"] {
   grid-area: students;
-  overflow: scroll;
 }
 
 [data-position] {
